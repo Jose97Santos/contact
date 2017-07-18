@@ -4,8 +4,7 @@
         <style>
         body{
             background-color:blue;
-            color:#FFF;
-            }
+            color:#FFF;}
         </style>
     </body>
 </html>
